@@ -28,3 +28,5 @@ test/**/next-env.d.ts
 **/.vscode
 
 build
+public/*
+!public/README.md
